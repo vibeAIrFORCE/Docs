@@ -26,7 +26,7 @@
 
 ## 🚀 About The Project
 
-**VIBE.aiRforce** is a next-generation Ethereum project that merges powerful blockchain capabilities with AI-driven, character-based interfaces. We're a collective of developers, AI researchers, and digital artists united by our vision to make advanced technology accessible through memorable, meme-worthy experiences.
+**VIBE.aiRforce** is a next-generation Ethereum project that merges powerful blockchain capabilities with AI-driven, character-based interfaces. We're a collective of developers, AI Vibe Coders, and digital artists united by our vision to make advanced technology accessible through memorable, meme-worthy experiences.
 
 Our brand embraces memetic storytelling and satirical elements while delivering high-end AI technology. Our retro-modern, whimsical aesthetic appeals to both crypto natives and tech-savvy newcomers seeking a fresh approach by using and running AI agents.
 
