@@ -102,5 +102,4 @@ Remember, with great power comes great responsibility: make sure you have the ri
 
 ---
 
-*Last updated: [Current Month, Year]*
 
