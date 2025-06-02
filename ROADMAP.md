@@ -17,6 +17,8 @@ We are committed to:
 
 *VIBE code, VIBE analyze, VIBE research - Just VIBE with us! Join our community where innovation meets fun, and together we'll Just VIBE with it*
 
+**Note:** This roadmap is a living organism. While our mission remains constant, our path to achieving it will continuously evolve and adapt. We embrace change, welcome community feedback, and are ready to pivot our strategies as we discover better ways to serve our users and the Web3 ecosystem. Think of this document as a snapshot of our current direction, not a fixed path.
+
 
 ## 🚀 Current Status
 
