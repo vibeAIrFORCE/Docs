@@ -48,7 +48,7 @@ We are committed to:
 - [✅] Liquidity secured for 1 year
 
 ### Community Initiatives
-- [ ] VIBE Check team rewards ($100 worth of $VIBEAI tokens per member)
+- [ ] VIBE Check team rewards ($100 worth of $VIBE tokens per member)
 - [ ] Community voting on project ideas
 - [ ] 1M VIBE token reward for best community idea
 
@@ -65,8 +65,9 @@ more soon
 
 ### AI Agent Enhancements
 - [ ] Adaptive AI agents
-- [ ] Community-driven development
-- [ ] Enhanced automation features
+- [ ] Custom agent creation interface
+- [ ] VIBE Championship dashboard with real-time leaderboard
+
 
 ## 🔐 Token-Gated Access
 
