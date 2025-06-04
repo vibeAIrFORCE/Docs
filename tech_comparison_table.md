@@ -94,5 +94,3 @@
 | Session Replay | ✓ | - |
 | Character Personas | - | ✓ |
 | Memetic Storytelling | - | ✓ |
-| Retro-Modern Design | - | ✓ |
-| Whimsical Interface | - | ✓ | 
