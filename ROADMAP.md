@@ -87,7 +87,7 @@ more soon
 
 ### Distribution
 - Team tokens: 10% (vested for 1 year)
-- Marketing: 5% (locked for 1 year)
+- Marketing: 5% 
 - Tax: 5%
 
 ### Security
