@@ -51,7 +51,7 @@ We are committed to:
 
 ### Community Initiatives
 - [✅] VIBE Check team rewards ($100 worth of $VIBE tokens per member)
-- [ ] Community voting on project ideas
+- [✅] Community voting on project ideas
 - [ ] 1M VIBE token reward for best community idea
 
 
