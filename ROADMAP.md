@@ -29,7 +29,7 @@ We are committed to:
 - **Agent Users**: 47+ registered users
 - **Daily Agent Runs**: 43+ (24H average)
 
-## 📅 Immediate Focus (Week after Launch) 01.06.25.
+## 📅 Immediate Focus (Week 3 after Launch) 16.06.25.
 
 ### Marketing & Community Growth
 - [✅] Onboarding KOLs (Key Opinion Leaders) 
