@@ -137,12 +137,6 @@ We are committed to:
 - Premium research tools
 - Priority support and features
 
-### Token Requirements
-- Basic access: 1,000+ $VIBE tokens
-- Premium tier: 10,000+ $VIBE tokens
-- Whale tier: 100,000+ $VIBE tokens
-- Community governance: Any amount
-
 ## 💎 Tokenomics
 
 ### Distribution
