@@ -1,7 +1,7 @@
 # VIBE.aiRforce: AI Agents on Ethereum
 
 <div align="center">
-  <img src="https://github.com/vibeAIrFORCE/Assets/blob/main/VibeLOGOmain.png" alt="VIBE.aiRforce Logo" width="300"/>
+  <img src="[https://github.com/vibeAIrFORCE/Assets/blob/main/VibeLOGOmain.png](https://github.com/vibeAIrFORCE/Assets/blob/main/VibeAIlogoTransparent.png)" alt="VIBE.aiRforce Logo" width="300"/>
 </div>
 <br/>
 <p align="center">
