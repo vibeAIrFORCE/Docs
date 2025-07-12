@@ -1,12 +1,32 @@
 # How to VIBE with Your VIBE.aiRforce Agent
 
-Welcome, VIBEr! You're about to embark on a journey with a VIBE.aiRforce AI Agent – your quirky, smart, and incredibly capable partner in conquering tasks. Whether you choose the Giraffe, Wizard, or Frog, get ready to Think. VIBE. Done.
+Welcome, VIBEr! You're about to embark on a journey with a VIBE.aiRforce AI Agent – your quirky, smart, and incredibly capable partner in conquering tasks. Get ready to Think. VIBE. Done.
 
 This guide will help you understand how your agent thinks, operates, and how you can best interact with it to achieve amazing results.
 
 ---
 
-## (Understanding Your Agent's Core)
+## 🚀 Quick Start: Shortcut Buttons for New VIBErs
+
+**New to VIBE AI?** Don't worry about crafting the perfect prompt! We've got you covered with shortcut buttons that demonstrate our agent capabilities instantly.
+
+### How to Use Shortcut Buttons:
+1. **Look for the suggestion buttons** under the text input area
+2. **Click any button** that interests you (Investment Opportunities, Ethereum Project Analysis, Show Tools & Examples, etc.)
+3. **Make coffee ☕** while our agents work their magic
+4. **Return to see comprehensive results** - full analysis, research, or demonstrations ready!
+
+### Available Shortcut Categories:
+- **Investment Opportunities**: Get market analysis and investment insights
+- **Ethereum Project Analysis**: Deep dive into Web3 projects and tokenomics
+- **Show Tools & Examples**: Discover all available agent capabilities
+- **Pump.fun Scanner**: Analyze new token launches with VIBE ratings
+- **Smart Wallet Analysis**: Track whale movements and trading patterns
+- **KOL Research**: Social sentiment and influencer analysis
+
+**Pro Tip**: These buttons are perfect for first-time users who want to experience our agent superpowers without overthinking prompts. Click → Coffee ☕ → Results!
+
+---
 
 *   **Your Agent's Identity:** Think of your agent as a full-spectrum autonomous assistant. It can research, write, develop software, analyze data, and solve problems creatively. It's got a Linux environment, internet access, and a whole suite of tools.
 *   **The VIBE Philosophy:** We're about making advanced tech accessible, powerful, playful, and even a bit meme-worthy.
@@ -20,7 +40,7 @@ This guide will help you understand how your agent thinks, operates, and how you
 The more precise your request, the better your agent can plan and execute. Your VIBE.aiRforce agent thrives on detail!
 
 *   **Good Examples:**
-    *   "Research the top 3 competitors for a new Ethereum-based DeFi protocol focused on yield farming, analyze their tokenomics, current market cap, and recent community activity on Twitter. Provide a summary in a markdown file named `competitor_analysis.md`."
+    *   "Research the top 3 competitors for a new Solana-based DeFi protocol focused on yield farming, analyze their tokenomics, current market cap, and recent community activity on Twitter. Provide a summary in a markdown file named `competitor_analysis.md`."
     *   "Create a simple Python script that fetches the current price of Ethereum from CoinGecko API and saves it to `eth_price.txt`. Then, write a short paragraph explaining how to run this script."
     *   "Generate a landing page `index.html` with a connected `style.css` for a new VIBE AI project called 'MemeCoin Analyzer'. The page should have a catchy headline, a brief description, and a placeholder for a demo video. Use our brand colors: Beige Background (`#a99d7e`) for the page, Text Black (`#22201c`) for text, and Hoodie Blue (`#4a7c97`) for accents."
 *   **Needs Improvement (Too Vague):**
@@ -36,6 +56,7 @@ Your agent is packed with tools and skills. Knowing what it can do helps you ask
 *   **System Operations:** Running CLI commands, managing archives, installing packages (it has `sudo`!).
 *   **Web Search & Browsing:** Advanced web searching, extracting content, interacting with web pages (filling forms, clicking buttons).
 *   **Visual Input:** It can "see" images you provide using a specific tool. If an image is in the `/workspace`, tell the agent: `Use the 'see-image' tool for 'path/to/your/image.png'`.
+*   **Blockchain Integration:** Direct interaction with Ethereum and other blockchain networks, smart contract analysis, wallet tracking.
 *   **Data Providers:** Your agent has direct lines to specific data sources for:
     *   LinkedIn
     *   Twitter
@@ -43,6 +64,10 @@ Your agent is packed with tools and skills. Knowing what it can do helps you ask
     *   Amazon
     *   Yahoo Finance
     *   Active Jobs
+    *   **$DATA API** (DataBot integration for social intelligence)
+    *   **Pump.fun Scanner** (Token analysis with VIBE ratings)
+    *   **Smart Wallet Analyzer** (Whale tracking and trading patterns)
+    *   **EVA AI** (Enhanced research capabilities)
     *   **Pro Tip:** If your task involves these, the agent prefers using these providers for accuracy and up-to-date info over general web scraping. "*Use the Twitter data provider to find recent tweets mentioning VIBE.aiRforce.*"
 
 ### 3. How Your Agent "Thinks" (The `todo.md` Flow)
@@ -139,7 +164,85 @@ Your agent has a strict hierarchy for getting web information:
 *   **Error Handling:** The agent is designed to be robust, but if it seems stuck or confused, try rephrasing or simplifying the immediate goal. If it makes 3 `todo.md` updates without completing a task, it's programmed to reassess or ask you for guidance.
 
 ---
-# 🌐 Web2 VIBES: Everyday Tasks Unleashed
+
+## 🌐 Advanced Web3 VIBES: Blockchain Intelligence & DeFi Mastery
+
+VIBE.aiRforce agents are built for Web3! Here are advanced use cases that showcase our blockchain superpowers:
+
+### 1. Smart Money Tracking & Whale Analysis
+*   **Use Case:** You want to track successful crypto traders and copy their strategies.
+*   **Prompt Examples:**
+    *   "*Use the smart wallet analyzer to track wallets that bought [TOKEN] in the last 24 hours and analyze their historical performance. Focus on wallets with >80% win rate.*"
+    *   "*Find wallets that are accumulating Solana ecosystem tokens this week and provide a detailed analysis of their trading patterns.*"
+    *   "*Track the top 10 whale movements on Ethereum today and identify any coordinated buying patterns.*"
+
+### 2. Token Launch Analysis & Gem Hunting
+*   **Use Case:** Discovering profitable opportunities in new token launches.
+*   **Prompt Examples:**
+    *   "*Scan pump.fun for new tokens launched in the last hour. Identify the top 3 with the highest Hype Score and give me their VIBE Check reports.*"
+    *   "*Use multiple data providers to analyze [CONTRACT_ADDRESS] - check tokenomics, holder distribution, liquidity, and social sentiment. Provide investment recommendation with risk rating.*"
+    *   "*Find Solana tokens under $1M market cap with active development and growing communities. Generate gem profiles for the top 3 candidates.*"
+
+### 3. DeFi Protocol Intelligence
+*   **Use Case:** Optimizing yield farming and DeFi strategies.
+*   **Prompt Examples:**
+    *   "*Compare yield farming opportunities across Ethereum, Solana, and Polygon. Find the highest APY with <5% risk rating.*"
+    *   "*Analyze the TVL changes across major DeFi protocols in the last 30 days and identify emerging opportunities.*"
+    *   "*Track upcoming token unlocks that could impact major DeFi tokens in the next 30 days.*"
+
+### 4. KOL & Social Sentiment Analysis
+*   **Use Case:** Leveraging social intelligence for trading decisions.
+*   **Prompt Examples:**
+    *   "*Use the $DATA API to analyze crypto influencer sentiment around [PROJECT]. Include follower growth, engagement rates, and credibility assessment.*"
+    *   "*Track the top daily trending crypto discoveries and analyze their social engagement patterns.*"
+    *   "*Map the relationship network between the top 5 Ethereum influencers and identify their shared investment themes.*"
+
+### 5. Cross-Chain Arbitrage & MEV Opportunities
+*   **Use Case:** Finding profitable arbitrage opportunities across different chains.
+*   **Prompt Examples:**
+    *   "*Scan for arbitrage opportunities between Ethereum and Solana DEXs with >2% profit margin.*"
+    *   "*Monitor cross-chain bridge activity and identify potential MEV opportunities.*"
+    *   "*Compare the same token prices across different DEXs and chains to find arbitrage possibilities.*"
+
+### 6. NFT & Gaming Token Analysis
+*   **Use Case:** Analyzing NFT projects and gaming tokens for investment opportunities.
+*   **Prompt Examples:**
+    *   "*Research the top 3 Solana NFT projects by trading volume this week. Analyze their communities, utility, and price trends.*"
+    *   "*Find GameFi tokens launched in the last 6 months with active communities and analyze their tokenomics.*"
+    *   "*Track whale movements in the NFT space and identify trending collections before they pump.*"
+
+### 7. Regulatory & Compliance Monitoring
+*   **Use Case:** Staying ahead of regulatory changes that might impact investments.
+*   **Prompt Examples:**
+    *   "*Monitor regulatory news and announcements that might affect DeFi protocols in the next quarter.*"
+    *   "*Analyze the compliance status of major centralized exchanges and identify potential risks.*"
+    *   "*Track government blockchain initiatives and their potential impact on crypto markets.*"
+
+### 8. Portfolio Optimization & Risk Management
+*   **Use Case:** Building and managing a diversified crypto portfolio.
+*   **Prompt Examples:**
+    *   "*Analyze my current portfolio allocation and suggest rebalancing strategies based on market conditions.*"
+    *   "*Create a risk-adjusted portfolio for $10K investment across different crypto sectors.*"
+    *   "*Monitor correlation between my holdings and suggest diversification opportunities.*"
+
+### 9. Gasless DeFi Operations (Coming Soon!)
+*   **Use Case:** Execute DeFi operations without gas fees using 0xGasless integration.
+*   **Future Capabilities:**
+    *   24/7 autonomous trading strategies
+    *   Micro-transaction DeFi operations
+    *   Scalable multi-user agent deployments
+    *   Enterprise-grade automation solutions
+
+**Pro Web3 Tips:**
+*   **Combine Multiple Tools:** "*Use Nansen to find smart money buying [TOKEN], then use DefiLlama to check if they're farming yield with it, and create a comprehensive analysis.*"
+*   **Risk Assessment:** Always ask for risk ratings and position sizing recommendations
+*   **Real-Time Monitoring:** Set up continuous monitoring for important metrics
+*   **Cross-Reference Data:** Use multiple data sources to validate findings
+
+
+---
+
+## 🌐 Web2 VIBES: Everyday Tasks Unleashed
 
 While VIBE.aiRforce is a champ in the Web3 arena, its powerful capabilities are fantastic for a wide range of Web2 tasks too! Here are some ideas to get your VIBE flowing for everyday productivity and creativity:
 
@@ -172,6 +275,45 @@ While VIBE.aiRforce is a champ in the Web3 arena, its powerful capabilities are 
 *   Be specific about the desired output format (e.g., `.md`, `.txt`, `.py`).
 *   Provide URLs if you want the agent to research specific web pages.
 *   Leverage the agent's ability to use its data providers (Twitter, LinkedIn, etc.) even for Web2-centric research if relevant!
+
+---
+
+## 🎯 Battle-Tested VIBE Prompts
+
+Here are some of our most effective prompts that have been tested by the VIBE community:
+
+### Comprehensive Token Analysis:
+```
+Analyze Ethereum token [CONTRACT_ADDRESS] using: 
+1) Blokiments data for metrics on market cap, liquidity, holders, and security
+2) Technical indicators with clear buy/sell signals
+3) Twitter KOL sentiment with credibility assessment
+4) Documentation review for utility status and tokenomics
+5) Investment recommendation with risk rating, position size, entry/exit points for a risk-hungry investor seeking 5-10x potential
+Compare to 2-3 similar projects and highlight competitive advantages.
+```
+
+### Quick Investment Decision:
+```
+Use a data provider and tell me if buying this coin is a wise decision right now. I'm risk-hungry. CA: [CONTRACT_ADDRESS]
+```
+
+### KOL & Social Analysis:
+```
+Use a Twitter data provider to find recent tweets mentioning [PROJECT] from key opinion leaders. Analyze sentiment and provide credibility assessment.
+```
+
+### Gem Discovery:
+```
+Scan pump.fun for new tokens launched in the last hour. Identify the top 3 with the highest Hype Score and give me their VIBE Check reports.
+```
+
+### Smart Money Tracking:
+```
+Use the top_traders data provider to get the top traders for contract: [CONTRACT_ADDRESS] and give me a brief analysis of what the data shows about trading patterns.
+```
+
+**Pro Tip:** These prompts are designed to work with our 20+ integrated tools and data providers. Feel free to modify them based on your specific needs!
 
 ---
 
