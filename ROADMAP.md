@@ -141,7 +141,7 @@ We are committed to:
 
 ### Distribution
 - Team tokens: 10% (vested for 1 year)
-- Marketing: 5% (locked for 1 year)
+- Marketing: 5% 
 - Tax: 5%
 - Liquidity: Secured and locked
 
