@@ -1,7 +1,6 @@
 # VIBE AI PROMPTS COLLECTION
 
 A simple collection of practical prompts for your VIBE.aiRforce agent. These prompts are designed to work with our actual capabilities and data providers.
-
 ---
 
 ## 🌐 CRYPTO ANALYSIS PROMPTS
@@ -9,7 +8,6 @@ A simple collection of practical prompts for your VIBE.aiRforce agent. These pro
 ### Simple Token Analysis
 ```
 Analyze this token for investment potential: [CONTRACT_ADDRESS]
-
 ```
 
 ### Quick Risk Check
@@ -20,13 +18,11 @@ Is this token safe to buy? CA: [CONTRACT_ADDRESS]
 ### Social Sentiment Analysis
 ```
 What are people saying about [TOKEN_NAME] on social media?
-
 ```
 
 ### Solana Token Research
 ```
 Research this Solana token: [CONTRACT_ADDRESS]
-
 ---
 
 ## 🔍 PROJECT LEGITIMACY PROMPTS
