@@ -25,8 +25,9 @@ What are people saying about [TOKEN_NAME] on social media?
 Research this Solana token: [CONTRACT_ADDRESS]
 ---
 
-## 🔍 PROJECT LEGITIMACY PROMPTS
 ```
+
+## 🔍 PROJECT LEGITIMACY PROMPTS
 
 ### LARP vs Legit Check
 ```
