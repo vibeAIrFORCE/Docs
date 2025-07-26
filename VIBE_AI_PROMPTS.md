@@ -13,7 +13,7 @@ Analyze this token for investment potential: [CONTRACT_ADDRESS]
 ### Quick Risk Check
 ```
 Is this token safe to buy? CA: [CONTRACT_ADDRESS]
-
+```
 
 ### Social Sentiment Analysis
 ```
