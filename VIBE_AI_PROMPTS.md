@@ -26,6 +26,7 @@ Research this Solana token: [CONTRACT_ADDRESS]
 ---
 
 ## 🔍 PROJECT LEGITIMACY PROMPTS
+---
 
 ### LARP vs Legit Check
 ```
