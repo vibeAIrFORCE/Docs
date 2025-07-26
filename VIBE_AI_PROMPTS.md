@@ -4,6 +4,7 @@ A simple collection of practical prompts for your VIBE.aiRforce agent. These pro
 ---
 
 ## 🌐 CRYPTO ANALYSIS PROMPTS
+---
 
 ### Simple Token Analysis
 ```
@@ -46,6 +47,7 @@ Does [PROJECT_NAME] actually have a working product?
 ---
 
 ## 📊 MARKET RESEARCH PROMPTS
+---
 
 ### Trending Analysis
 ```
@@ -65,6 +67,7 @@ What narratives are trending in crypto right now?
 ---
 
 ## 💻 DEVELOPMENT PROMPTS
+---
 
 ### Simple API Creation
 ```
@@ -96,6 +99,7 @@ Build a simple web dashboard showing:
 ---
 
 ## 📝 CONTENT CREATION PROMPTS
+---
 
 ### Research Report
 ```
@@ -127,6 +131,7 @@ Create documentation for [PROJECT/CODE]:
 ---
 
 ## 🌍 RESEARCH & ANALYSIS PROMPTS
+---
 
 ### Market Research
 ```
@@ -158,6 +163,7 @@ Research [TECHNOLOGY/PROTOCOL]:
 ---
 
 ## 🛠️ UTILITY PROMPTS
+---
 
 ### File Organization
 ```
@@ -189,6 +195,7 @@ Check system performance and provide:
 ---
 
 ## 🎯 SPECIALIZED PROMPTS
+---
 
 ### Security Analysis
 ```
@@ -216,6 +223,7 @@ Review the technical implementation of [PROJECT]:
 ---
 
 ## 💡 PROMPT TIPS
+---
 
 ### Making Effective Prompts
 
@@ -237,6 +245,7 @@ For [YOUR_USE_CASE]
 ---
 
 ## 📚 AVAILABLE DATA SOURCES
+---
 
 Our agent has access to these data providers:
 
@@ -253,6 +262,7 @@ Our agent has access to these data providers:
 ---
 
 ## 🚀 QUICK START EXAMPLES
+---
 
 ### Crypto Investment Research
 ```
