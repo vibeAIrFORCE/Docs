@@ -23,7 +23,6 @@ What are people saying about [TOKEN_NAME] on social media?
 ### Solana Token Research
 ```
 Research this Solana token: [CONTRACT_ADDRESS]
----
 
 ```
 
