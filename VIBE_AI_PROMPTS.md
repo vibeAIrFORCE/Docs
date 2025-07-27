@@ -35,12 +35,12 @@ Is [PROJECT_NAME] legit or a LARP?
 
 ### Team Verification
 ```
-Research the team behind [PROJECT_NAME]:
+Research the team behind [PROJECT_WEB]:
 ```
 
 ### Product Reality Check
 ```
-Does [PROJECT_NAME] actually have a working product?
+Does [PROJECT_WEB] actually have a working product?
 ```
 
 ---
