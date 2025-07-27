@@ -30,7 +30,7 @@ Research this Solana token: [CONTRACT_ADDRESS]
 
 ### LARP vs Legit Check
 ```
-Is [PROJECT_NAME] legit or a LARP?
+Is [PROJECT_WEB] legit or a LARP?
 ```
 
 ### Team Verification
